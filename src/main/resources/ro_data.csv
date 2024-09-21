@@ -1,0 +1,5 @@
+roCode,primaryIP,secondaryIP,city,state,region
+RO001,10.42.120.245,192.168.58.187,Mumbai,Maharashtra,West
+RO002,10.25.135.189,10.42.122.32,Pune,Maharashtra,West
+RO003,10.42.121.197,100.0.26.133,Delhi,Delhi,North
+RO004,25.131.155,100.0.106.55,Ajmer,Rajasthan,East
